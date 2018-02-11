@@ -1,4 +1,8 @@
-# servosix
+# ServoSix Node
+
+The plan for this library is to build a Node.js-based form of Monk Makes' own fantastic Python servosix library.
+
+<!-- # servosix
 Python library for controlling servo motors accurately, without any jitter.
 
 This library is of general use for anyone connecting servomotors to their Raspberry Pi, but is designed specifically for the MonkMakes Servo Six board http://monkmakes.com/servosix.
@@ -86,4 +90,4 @@ The first parameter is the servo channel and the second the angle you want to se
 ss.cleanup()
 ```
 
-This should be called before your program exits to free up the GPIO pins for any other program that may want to use them.
+This should be called before your program exits to free up the GPIO pins for any other program that may want to use them. -->
